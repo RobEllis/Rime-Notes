@@ -1,0 +1,1 @@
+A shop in [[Lonelywood]], sells bits and bobs for scrimshaw.

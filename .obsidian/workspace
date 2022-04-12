@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "5f6f828c9b4565be",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f97aab85df423e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✨Stats✨.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b78b8ebe1af526f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1333d61f8d0c5340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3104f9fd988edfcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84d18bc9588783bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249
+  },
+  "right": {
+    "id": "996b2462760cae85",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e154ec6a473c18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7af8f8505c5ad992",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "✨Stats✨.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5369bc339745c713",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 827,
+    "collapsed": true
+  },
+  "active": "24f97aab85df423e",
+  "lastOpenFiles": [
+    "✨Stats✨.md",
+    "To-do List.md",
+    "The Party.md",
+    "Characters/NPCs/Termalaine/Nikrel.md",
+    "Session Summaries/Session-2022-03-29.md",
+    "Characters/The Party/Zevrell.md",
+    "Characters/The Party/Singeer Exoe Vilpatt.md",
+    "Locations/Kelvin's Cairn.md",
+    "Factions/Rare Reserve Mining Group.md",
+    "Factions/Many-Arrows.md"
+  ]
+}

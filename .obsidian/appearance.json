@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "h1-border",
+    "image-max-height"
+  ],
+  "theme": "obsidian",
+  "translucency": false
+}

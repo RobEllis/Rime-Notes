@@ -1,0 +1,9 @@
+.image-embed img {
+  max-height: 300px
+}
+
+.image-embed {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

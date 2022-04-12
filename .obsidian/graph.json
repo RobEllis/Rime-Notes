@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "- path:\"Session Summaries\" - file:\"To-do List\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Characters/The Party\"",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "tag:#Ally",
+      "color": {
+        "a": 1,
+        "rgb": 6412873
+      }
+    },
+    {
+      "query": "tag:#Enemy",
+      "color": {
+        "a": 1,
+        "rgb": 12728376
+      }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.401709401709402,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 299,
+  "scale": 0.6554983534947015,
+  "close": true
+}
