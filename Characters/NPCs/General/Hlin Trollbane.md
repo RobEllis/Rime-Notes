@@ -12,4 +12,4 @@ tags: [NPC]
 - **Status**: Alive
 
 ## Summary
-Investigating the murders in [[Easthaven]], [[Targos]] and [[Bryn Shander]]. All the victims had icy knives in their 
+Investigating the murders in [[Easthaven]], [[Targos]] and [[Bryn Shander]]. All the victims had icy knives in their bodies.

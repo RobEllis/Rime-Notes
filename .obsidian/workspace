@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 269
   },
   "right": {
     "id": "996b2462760cae85",
@@ -99,13 +99,13 @@
   "lastOpenFiles": [
     "✨Stats✨.md",
     "To-do List.md",
+    "Characters/Jakab.md",
     "The Party.md",
-    "Characters/NPCs/Termalaine/Nikrel.md",
-    "Session Summaries/Session-2022-03-29.md",
-    "Characters/The Party/Zevrell.md",
-    "Characters/The Party/Singeer Exoe Vilpatt.md",
-    "Locations/Kelvin's Cairn.md",
-    "Factions/Rare Reserve Mining Group.md",
-    "Factions/Many-Arrows.md"
+    "Characters/The Party/Crowberry.md",
+    "Locations/Ten-Towns/Bryn Shander/Blackiron Blades.md",
+    "Locations/Ten-Towns/Bryn Shander/The Northlook.md",
+    "Characters/NPCs/Bryn Shander/Korux.md",
+    "Characters/NPCs/Bryn Shander/Hruna.md",
+    "Characters/NPCs/Bryn Shander/Storn.md"
   ]
 }

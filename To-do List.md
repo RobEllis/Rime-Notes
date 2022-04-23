@@ -21,4 +21,4 @@
 - [ ] [[Speaker Oarus Masthew]] has asked us to investigate some financials in Termalaine. Namely lobby funds, determining who supports who, and investigating [[Lathai Torfina|Lathai]]
 
 ## In Bryn Shander
-- [ ] There are dwarves in Brym Shander who are seeking help in tracking down a missing shipment
+- [ ] There are dwarves in Brym Shander who are seeking help in tracking down a missing shipment. Set upon by a Yeti in the [[Dwarven Pass]], a space between two hills
