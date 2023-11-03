@@ -1,0 +1,22 @@
+:root {
+    --outline-color: #FFF;
+}
+
+div:has(.block-language-leaflet) {
+    max-width: 100% !important;
+}
+
+.block-language-leaflet .leaflet-div-icon.leaflet-div-icon {
+    width: 35px!important;
+    height: 35px!important;
+    margin-left: -17.5px!important;
+    margin-top: -35px!important;
+}
+
+.leaflet-marker-icon > svg {
+    filter:
+        drop-shadow(-1px -1px 0px var(--outline-color))
+        drop-shadow(2px -1px 0px var(--outline-color))
+        drop-shadow(2px 2px 0px var(--outline-color))
+        drop-shadow(-1px 2px 0px var(--outline-color))
+}

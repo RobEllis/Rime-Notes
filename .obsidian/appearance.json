@@ -2,8 +2,12 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "h1-border",
-    "image-max-height"
+    "image-max-height",
+    "leaflet-big-map",
+    "smaller-properties",
+    "less-spaced-headers"
   ],
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }

@@ -1,5 +1,3 @@
-# The Many-Arrows
-
 ![[Many Arrows.png]]
 
 ---

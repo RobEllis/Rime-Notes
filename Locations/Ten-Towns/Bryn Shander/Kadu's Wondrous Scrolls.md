@@ -1,0 +1,1 @@
+A wondrous scroll shop run by [[Kadu]]! Sells ink, scrolls, and the like.

@@ -1,0 +1,30 @@
+.metadata-container {
+    padding: 0;
+    margin-left: 1.25rem;
+
+    font-size: 1rem;
+}
+
+.metadata-container.is-collapsed {
+    opacity: 0.25;
+    margin: 0 0 0 1.25rem;
+
+    font-size: 0.5rem;
+    line-height: 0.5rem;
+    padding: 0;
+}
+
+.metadata-container.is-collapsed .metadata-properties-heading:before
+{
+    font-size: 0.5rem;
+    line-height: 0.5rem;
+}
+
+.collapse-indicator.collapse-icon.is-collapsed
+{
+    padding-top: 0.25rem;
+}
+
+.mod-header:has(.metadata-container) .inline-title {
+    margin-bottom: 0.5rem;
+}

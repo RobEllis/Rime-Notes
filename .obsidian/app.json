@@ -3,5 +3,9 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "foldIndent": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "propertiesInDocument": "visible"
 }

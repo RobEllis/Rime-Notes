@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "24f97aab85df423e",
+        "id": "40f6ae32317cf0c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✨Stats✨.md",
-            "mode": "preview"
+            "file": "Characters/NPCs/General/Hlin Trollbane.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -40,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 228.5
   },
   "right": {
     "id": "996b2462760cae85",
@@ -63,12 +64,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "31996802e10cbd87",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
             "id": "7af8f8505c5ad992",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨Stats✨.md",
+                "file": "Characters/NPCs/General/Hlin Trollbane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,26 +95,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3f428b72099feb24",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 827,
+    "width": 760,
     "collapsed": true
   },
-  "active": "24f97aab85df423e",
+  "active": "40f6ae32317cf0c0",
   "lastOpenFiles": [
-    "✨Stats✨.md",
+    "Characters/NPCs/Easthaven/Detective Darrell 'The Rock' Della Valle.md",
     "To-do List.md",
-    "Characters/Jakab.md",
-    "The Party.md",
-    "Characters/The Party/Crowberry.md",
-    "Locations/Ten-Towns/Bryn Shander/Blackiron Blades.md",
-    "Locations/Ten-Towns/Bryn Shander/The Northlook.md",
-    "Characters/NPCs/Bryn Shander/Korux.md",
-    "Characters/NPCs/Bryn Shander/Hruna.md",
-    "Characters/NPCs/Bryn Shander/Storn.md"
+    "✨Stats✨.md",
+    "Locations/Ten-Towns/Easthaven/The White Lady Inn.md",
+    "Locations/Ten-Towns/Easthaven/Easthaven Town Hall.md",
+    "Locations/Ten-Towns/Easthaven/Easthaven.md",
+    "Characters/Giant Cave Horror.md",
+    "Characters/NPCs/Frost Giant Cave/Maud Chiselbone.md",
+    "Characters/NPCs/Frost Giant Cave/Igras Maudsson.md",
+    "Characters/NPCs/Frost Giant Cave/Thornir.md"
   ]
 }

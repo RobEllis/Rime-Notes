@@ -1,0 +1,12 @@
+- [x] [[Speaker Oarus Masthew]] has offered 50 gold to clear out a Gem Mine, which has been closed on reports of 'monsters'. There are reports of Kobolds infesting the mine.
+- [x] [[Dannika Graysteel]] has asked us to find some [[Chwingas]]!
+- [x] Four fishers went missing a tenday ago while out fishing on the lake. [[Captain Imdra Arlaggath]] has offered us [[Dzaan Prime]]'s possessions in exchange for investigating the reason or otherwise evidence of the missing fishers. A boat can be borrowed from the docks. Boat is called the Bunch o' Knuckleheads
+- [x] A strange white moose has been harassing people in Lonelywood, and the hunters ([[Izel]], [[Kitic]]) are unable to catch it
+ - [x] Get some Crampons and Snowshoes
+ - [x] Another Gored and Frozen body has been found on the wooded path to [[Termalaine]]
+ - [x] ***Investigate the ripped sail symbol; links to [[Luskan]]?**\*
+The ripped sail is from a ship known as the Dark Duchess, which left port at Luskan.
+- [x] There are dwarves in Brym Shander who are seeking help in tracking down a missing shipment. Set upon by a Yeti in the [[Dwarven Pass]], a space between two hills
+- [x] [[Kayira the Black]] wants us to destroy a cult of Levistus, in exchange for [[Singeer Exoe Vilpatt]]'s continued existence
+- [x] [[Speaker Oarus Masthew]] has asked us to investigate some financials in Termalaine. Namely lobby funds, determining who supports who, and investigating [[Lathai Torfina|Lathai]]
+- [ ] A church where the Redrun breaks free of the world houses a temple that could heal us of our wounds

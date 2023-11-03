@@ -1,14 +1,14 @@
 ---
 categories: Characters
-tags: [NPC PC Ally Enemy]
+tags:
+  - NPC
+  - PC
+  - Ally
+  - Enemy
 ---
-# Name
-## Bio
-- **Race**: 
-- **Creature Type**:
-- **Gender/Pronouns**:  
+- **Race/Creature Type**: 
+- **Pronouns**:  
 - **Occupation**: 
 - **Location**: 
 - **Status**:
-
-## Summary
+# Summary

@@ -1,0 +1,1 @@
+A decrepit inn in [[Lonelywood]]. Gifted to the party as a reward for killing the White Moose.

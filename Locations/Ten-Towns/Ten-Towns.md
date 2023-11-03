@@ -1,5 +1,4 @@
-# Ten-Towns
-There are ten major towns in Icewind dale. Collectively, they are known as Tentowns.
+There are ten major towns in [[Icewind Dale]]. Collectively, they are known as Tentowns.
 
 ## Locations
 - [[Bremen]]

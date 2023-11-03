@@ -1,4 +1,4 @@
-.markdown-preview-view h1 {
-    font-size: 2em;
+.markdown-preview-view h1, .mod-header {
+    font-size: 1.5em;
     border-bottom: 2px solid var(--background-modifier-border);
 }

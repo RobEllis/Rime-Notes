@@ -1,0 +1,1 @@
+A temple fallen under attack by [[Hedrun Arnsfirth, the Ice Witch]]? Run by a Frostwarden, a high reverent of Rellavar Danuvien (which implies elven gods), 

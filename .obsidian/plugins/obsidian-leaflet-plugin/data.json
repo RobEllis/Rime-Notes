@@ -1,0 +1,567 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1678737756884,
+      "markers": [
+        {
+          "id": "ID_fa296898f859",
+          "type": "Town",
+          "loc": [
+            -4.66593012213707,
+            3.806494176387787
+          ],
+          "link": "Bryn Shander",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8e8dbf83838",
+          "type": "Town",
+          "loc": [
+            -3.788500964641571,
+            4.30126953125
+          ],
+          "link": "Termalaine",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b1999ca385b",
+          "type": "Town",
+          "loc": [
+            -3.6106567680835724,
+            4.074267625808716
+          ],
+          "link": "Lonelywood",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_882b3b5a5b88",
+          "type": "Temple",
+          "loc": [
+            -6.471594363451004,
+            2.196923792362213
+          ],
+          "link": "Healing Temple",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c90b08a8589b",
+          "type": "Town",
+          "loc": [
+            -4.8913207948207855,
+            5.482861340045929
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8d9a8ba0a3a",
+          "type": "Town",
+          "loc": [
+            -4.8883911073207855,
+            5.482861340045929
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a39e83ae9d8",
+          "type": "Town",
+          "loc": [
+            -4.899804711341858,
+            5.482421815395355
+          ],
+          "link": "Easthaven",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4678333282470703,
+            0.5951838700372554
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7988881a0868",
+          "type": "Town",
+          "loc": [
+            -4.25390625,
+            5.530468702316284
+          ],
+          "link": "Caer-Dineval",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4719333292643229,
+            0.5167259786476869
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9fb5b7a9ad8",
+          "type": "Town",
+          "loc": [
+            -4.4111328125,
+            3.438671886920929
+          ],
+          "link": "Targos",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.29343333435058594,
+            0.5358244365361803
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a81b484be828",
+          "type": "Misc",
+          "loc": [
+            -4.801171898841858,
+            7.417187452316284
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6329333292643229,
+            0.5832028498711818
+          ],
+          "description": "Aldwyn found in cave here",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Icewind Dale Map.md"
+      ]
+    },
+    {
+      "id": "tentowns-map",
+      "locked": false,
+      "lastAccessed": 1679088636098,
+      "markers": [
+        {
+          "id": "ID_fbfbeb98ca28",
+          "type": "Town",
+          "loc": [
+            -4.662109375,
+            3.8029295285214504
+          ],
+          "link": "Bryn Shander",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3245166531004971,
+            0.5663107947805457
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_399a690a399a",
+          "type": "Town",
+          "loc": [
+            -4.411914050579071,
+            3.4388678433023467
+          ],
+          "link": "Targos",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.29345005596180024,
+            0.5359193342577662
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b080a9a5aea",
+          "type": "Town",
+          "loc": [
+            -4.894726574420929,
+            5.4833984375
+          ],
+          "link": "Easthaven",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.46791666666666665,
+            0.5945670239865992
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dabb89a80809",
+          "type": "Town",
+          "loc": [
+            -4.25,
+            5.52949202852145
+          ],
+          "link": "Caer-Dineval",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4718499864338304,
+            0.5162514827995255
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8e88999ebfa",
+          "type": "Town",
+          "loc": [
+            -3.786718785762787,
+            4.2998046875
+          ],
+          "link": "Termalaine",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.36691666666666667,
+            0.45997627955173115
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f838c97a5928",
+          "type": "Town",
+          "loc": [
+            -3.6158203184604645,
+            4.071679190676203
+          ],
+          "link": "Lonelywood",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3473333333333333,
+            0.43905100975172373
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b4a8ab93808",
+          "type": "Temple",
+          "loc": [
+            -6.47265625,
+            2.1937519872951867
+          ],
+          "link": "Healing Temple",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1872001695825226,
+            0.7862396204033215
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bbac889e918",
+          "type": "Dungeon/Cave",
+          "loc": [
+            -4.388681951723855,
+            5.323210954157783
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.45424733475479745,
+            0.5330973094383425
+          ],
+          "description": "Icy Cave",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a28ebb9f94a",
+          "type": "Dungeon/Cave",
+          "loc": [
+            -4.781240403120138,
+            7.8835954157782515
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6727334754797442,
+            0.5807817524074758
+          ],
+          "description": "Berserker Camp: here dies Kralen",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab29fb4b28c9",
+          "type": "Landmarks",
+          "loc": [
+            -3.3622191548347473,
+            5.390213440920125
+          ],
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c948b8986afb",
+          "type": "Landmarks",
+          "loc": [
+            -3.3583129048347473,
+            5.393143992889733
+          ],
+          "link": "Kelvin's Cairn",
+          "layer": "%5B%5BTenTowns.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "🗺️ Icewind Dale Map 🗺️.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#ff00ff",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Temple",
+      "iconName": "landmark",
+      "color": "#805be6",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "chess-rook",
+      "color": "#ff0066",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Dungeon/Cave",
+      "iconName": "dungeon",
+      "color": "#c03939",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Misc",
+      "iconName": "ellipsis-h",
+      "color": "#194ff0",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Landmarks",
+      "iconName": "mountain",
+      "color": "#29ae38",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.2.6",
+  "version": {
+    "major": 5,
+    "minor": 2,
+    "patch": 6
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 7,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "80%",
+    "image": "[[TenTowns.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[TenTowns.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 8.2,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "tentowns-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "miles",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
