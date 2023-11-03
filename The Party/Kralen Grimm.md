@@ -11,7 +11,7 @@ tags: [PC Rob]
 - **Pronouns**:  He/They
 - **Occupation**: Sailor 👀
 - **Location**: [[The Party]]
-- **Status**: Alive
+- **Status**: Deceased
 
 # Summary
 The [[Ashen Wake]] was a ship built during the conquests of the [[Many-Arrows]]; during such a time, a series of rituals, involving ancient unknown magics, bound the crew together willingly. Under such a pact, the crew were bound to protect each other with their lives, as well as the life of the ship.
